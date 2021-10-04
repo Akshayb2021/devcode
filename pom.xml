@@ -312,7 +312,7 @@
                                     <version>3.0.1</version>
                                     <!--<configuration>-->
                                     <!--<configLocation>gol-checkstyle.xml</configLocation>-->
-                                    <!--</configuration>-->
+                                    <!!--</configuration>-->
                                 </plugin>
                                 <plugin>
                                     <groupId>org.apache.maven.plugins</groupId>
